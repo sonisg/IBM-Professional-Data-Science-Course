@@ -2,5 +2,12 @@ Practice Quiz - Languages
 
 TOTAL POINTS 6
 
-1. Which of the following statements is true?
-   a.
+Question 1   Which of the following statements is true?                                                                                1 point
+            a. Python is the most popular language in data science.
+            b. 80% of data scientists worldwide use Python.
+            c. Python is useful for AI, machine learning, web development, and IoT.
+            d. Keras, Scikit-learn, Matplotlib, Pandas, and TensorFlow are all built with Python.
+            e. All of the above
+      Answer -- e 
+
+
