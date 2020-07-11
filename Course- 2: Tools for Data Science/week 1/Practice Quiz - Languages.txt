@@ -2,12 +2,54 @@ Practice Quiz - Languages
 
 TOTAL POINTS 6
 
-Question 1   Which of the following statements is true?                                                                                1 point
+Question 1  Which of the following statements is true?                                                                                    1 point
             a. Python is the most popular language in data science.
             b. 80% of data scientists worldwide use Python.
             c. Python is useful for AI, machine learning, web development, and IoT.
             d. Keras, Scikit-learn, Matplotlib, Pandas, and TensorFlow are all built with Python.
             e. All of the above
-      Answer -- e 
+            Answer -- e 
 
+Question 2  Which of the following are SQL databases? (Select all that apply.)                                                            1 point
+            a. MySQL
+            b. PostgreSQL
+            c. MariaDB
+            d. Oracle
+            e. MongoDB
+            f. CouchDB
+            Answer -- a,b,c,d
+       
+Question 3  Which statements are true about Open Source and Free Software? (Select all that apply.)                                       1 point
+            a. Free Software and Open Source can be used interchangeably.
+            b. Free Software can always be run, studied, modified and redistributed with or without changes.
+            c. Most of Free Software licenses also qualify for Open Source.
+            d. Open Source Software can be modified without sharing the modified source code depending on the Open Source license.
+            Answer -- b,c,d
+
+Question 4  Is the following statement true or false: R integrates well with other computer languages like C++, Java, C, .Net and Python. 1 point
+            a. True
+            b. False
+            Answer -- a
+
+Question 5  Which of the following languages can be used for data science?                                                                1 point
+            a. R
+            b. Julia
+            c. Java
+            d. Javascript
+            e. Scala
+            f. SQL
+            g. All of the above
+            Answer -- g
+
+Question 6  Which of the following is used to make Artificial Intelligence and Machine Learning possible? (Select all that apply.)        1 point
+            a. Oracle
+            b. PyTorch
+            c. TensorFlow.js
+            d. Apache Spark
+            e. GNU
+            f.Caffe
+            Answer -- b,c,d,f
+
+
+          
 
