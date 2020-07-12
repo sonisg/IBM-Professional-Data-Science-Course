@@ -1,0 +1,29 @@
+From Problem to Approach
+TOTAL POINTS 5
+1.Question 1  Select the correct statement.                                                                                                                    1 point
+              a. None of the above statements are correct.
+              b. The data science methodology described in this course is outlined by John Rollins from IBM.
+              c. The data science methodology described in this course is limited to IBM.
+              d.The data science methodology described in this course is only used by certified data scientists.
+              ANSWER -- d
+
+2.Question 2  The first stage of the data science methodology is Data Understanding.                                                                           1 point
+              a. True
+              b. False
+              ANSWER -- a
+
+3.Question 3  Business Understanding is the least important stage in the data science methodology because none of the other stages depend on it.               1 point
+              a. True.
+              b. False
+              ANSWER -- b
+
+4.Question 4  The main purpose of the analytic approach is identifying what type of patterns will be needed to address the posed question most effectively.    1 point
+              a. True
+              b. False
+              ANSWER -- a
+
+5.Question 5  For the case study, a decision tree classification model was used to identify the combination of conditions leading to each patient's outcome.   1 point
+              a. True
+              b. False
+              ANSWER -- a
+
