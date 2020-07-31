@@ -2,7 +2,6 @@ Conditions and Branching
 
 1.Question 1
 What value of x will produce the output:
-
 Hi
 Mike
 
@@ -14,9 +13,10 @@ else:
 print('Mike')
 Mike
 
-x=1
-x=6
-x="7"
+a. x=1
+b. x=6
+c. x="7"
+Answer - a
 
 2.Question 2
 What is the output of the following code:
@@ -29,9 +29,10 @@ else:
   print('Stop')
 print('Mike')
 
-Go Mike
-Mike
-Stop Mike
+a. Go Mike
+b. Mike
+c. Stop Mike
+Answer - a
 
 3.Question 3
 What is the result of the following lines of code:
@@ -40,8 +41,9 @@ What is the result of the following lines of code:
 x=1
 x>-5
 
-True
-False
+a. True
+b. False
+Answer - b
 
 
 
