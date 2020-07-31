@@ -4,7 +4,46 @@ Conditions and Branching
 What value of x will produce the output:
 
 Hi
-
 Mike
+
+x=
+if(x!=1):
+  print('Hello')
+else:
+  print('Hi')
+print('Mike')
+Mike
+
+x=1
+x=6
+x="7"
+
+2.Question 2
+What is the output of the following code:
+1 point
+
+x="Go"
+if(x=="Go"):
+  print('Go ')
+else:
+  print('Stop')
+print('Mike')
+
+Go Mike
+Mike
+Stop Mike
+
+3.Question 3
+What is the result of the following lines of code:
+1 point
+
+x=1
+x>-5
+
+True
+False
+
+
+
 
 
